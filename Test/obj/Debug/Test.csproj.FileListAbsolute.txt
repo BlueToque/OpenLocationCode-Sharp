@@ -1,0 +1,13 @@
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\bin\Debug\Test.exe.config
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\bin\Debug\Test.exe
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\bin\Debug\Test.pdb
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\bin\Debug\OpenLocationCode.dll
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\bin\Debug\OpenLocationCode.pdb
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\bin\Debug\OpenLocationCode.dll.config
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.Properties.Resources.resources
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.TestForm.resources
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.exe
+D:\Development\BlueToque-Pub\OpenLocationCode\Test\obj\Debug\Test.pdb

@@ -1,0 +1,7 @@
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\bin\Debug\OpenLocationCode.dll.config
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\bin\Debug\OpenLocationCode.dll
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\bin\Debug\OpenLocationCode.pdb
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\obj\Debug\OpenLocationCode.csproj.CoreCompileInputs.cache
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\obj\Debug\OpenLocationCode.dll
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\obj\Debug\OpenLocationCode.pdb
+D:\Development\BlueToque-Pub\OpenLocationCode\OpenLocationCode\obj\Debug\OpenLocationCode.csprojResolveAssemblyReference.cache

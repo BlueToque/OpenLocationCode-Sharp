@@ -1,0 +1,6 @@
+d:\Users\Michael Coyle\Documents\Visual Studio 2017\Projects\open-location-code.cs\open-location-code.cs\obj\Debug\open-location-code.cs.csproj.CoreCompileInputs.cache
+d:\Users\Michael Coyle\Documents\Visual Studio 2017\Projects\open-location-code.cs\open-location-code.cs\bin\Debug\OpenLocationCode.dll.config
+d:\Users\Michael Coyle\Documents\Visual Studio 2017\Projects\open-location-code.cs\open-location-code.cs\bin\Debug\OpenLocationCode.dll
+d:\Users\Michael Coyle\Documents\Visual Studio 2017\Projects\open-location-code.cs\open-location-code.cs\bin\Debug\OpenLocationCode.pdb
+d:\Users\Michael Coyle\Documents\Visual Studio 2017\Projects\open-location-code.cs\open-location-code.cs\obj\Debug\OpenLocationCode.dll
+d:\Users\Michael Coyle\Documents\Visual Studio 2017\Projects\open-location-code.cs\open-location-code.cs\obj\Debug\OpenLocationCode.pdb
